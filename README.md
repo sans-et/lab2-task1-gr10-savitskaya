@@ -1,10 +1,10 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+This code demonstrates how replit works with github.This task is made in the new branch "development"
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+**Savitskaya Hanna-Maryia, group 10**.
 
 # Building
 

@@ -1,2 +1,13 @@
 language = "c"
-run = "gcc -o hello /home/runner/project2/src/hello.c"
+run = "gcc -o labrabota2-1 /home/runner/lab2_task1_gr10_savitskaya/src/hello.c"
+modules = ["c-clang14"]
+
+[deployment]
+run = [
+  "sh",
+  "-c",
+  "gcc -o labrabota2-1 /home/runner/lab2_task1_gr10_savitskaya/src/hello.c",
+]
+
+[nix]
+channel = "stable-24_05"
